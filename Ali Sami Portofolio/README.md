@@ -51,14 +51,6 @@ If you run this project locally, follow these steps
   3. open with your IDE such as vs code
 
 
-## Contact
-If you have any questions or need further clarification, please feel free to reach out to me
-
-> 📪 Email : pranto113015@gmail.com
-
-> 🔍 Linkedin : [Pranto Kumar](https://www.linkedin.com/in/pranto-kumar-a326801b3/)
-
-  💙 Thank you for reviewing my project!
 
 
 
